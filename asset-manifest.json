@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/soupwiz/static/css/main.9070cab2.css",
+    "main.js": "/soupwiz/static/js/main.4c2ae71c.js",
+    "static/media/Ogbono.png": "/soupwiz/static/media/Ogbono.0c3ca56b1066c3f3547c.png",
+    "static/media/mastercard-logo.png": "/soupwiz/static/media/mastercard-logo.80a52eb6701e1bd8f4dc.png",
+    "static/media/catfish.jpg": "/soupwiz/static/media/catfish.4a8872e6a1fd7f07c8f5.jpg",
+    "static/media/chicken-pepper-soup.jpg": "/soupwiz/static/media/chicken-pepper-soup.38bb710065238c52f492.jpg",
+    "static/media/Bitter-leaf-soup-33.jpg": "/soupwiz/static/media/Bitter-leaf-soup-33.01095965fe3a39cc7fc2.jpg",
+    "static/media/Egusi-Pepper-Soup.jpg": "/soupwiz/static/media/Egusi-Pepper-Soup.45505c837845099bf95e.jpg",
+    "static/media/Okra-soup.jpg": "/soupwiz/static/media/Okra-soup.900904f975b33ed2e8aa.jpg",
+    "static/media/Egusi-Soup.jpg": "/soupwiz/static/media/Egusi-Soup.3159d2be24afe9297afc.jpg",
+    "static/media/Banga-Soup.jpg": "/soupwiz/static/media/Banga-Soup.00ff953af34605b7bd38.jpg",
+    "static/media/Pepper-Soup.jpg": "/soupwiz/static/media/Pepper-Soup.a021fb654dbfb07b0aca.jpg",
+    "static/media/EdikaIkong-Soup.jpg": "/soupwiz/static/media/EdikaIkong-Soup.1acba65dab80c7498831.jpg",
+    "static/media/visa-logo-png-2018.png": "/soupwiz/static/media/visa-logo-png-2018.7c0d5cf65b66babc6441.png",
+    "static/media/Paystack_Logo.png": "/soupwiz/static/media/Paystack_Logo.f9fa176431cb020e9e83.png",
+    "static/media/Gbegiri-Soup.jpg": "/soupwiz/static/media/Gbegiri-Soup.1b724a2d43c6635f1e1b.jpg",
+    "static/media/souplogo.png": "/soupwiz/static/media/souplogo.84ffb32133bf24d127d7.png",
+    "static/media/Oha-Soup.jpg": "/soupwiz/static/media/Oha-Soup.0126b5e4692aa2781b85.jpg",
+    "static/media/efo-riro.jpg": "/soupwiz/static/media/efo-riro.2e2e267d65afaeda5163.jpg",
+    "static/media/Afang-Soup.jpg": "/soupwiz/static/media/Afang-Soup.9105038d8de51e3e7cea.jpg",
+    "static/media/interswitch.png": "/soupwiz/static/media/interswitch.9a8383f370e645165f79.png",
+    "index.html": "/soupwiz/index.html",
+    "main.9070cab2.css.map": "/soupwiz/static/css/main.9070cab2.css.map",
+    "main.4c2ae71c.js.map": "/soupwiz/static/js/main.4c2ae71c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9070cab2.css",
+    "static/js/main.4c2ae71c.js"
+  ]
+}
