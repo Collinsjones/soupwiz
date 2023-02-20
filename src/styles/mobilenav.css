@@ -1,0 +1,39 @@
+.mobilenavigation ul {
+    display: grid;
+    position: absolute;
+    background-color: #f5cb68;
+    margin-top: 40px;
+    margin-left: -25px;
+    
+}
+
+.mobilenavigation .mli {
+    width: 80%;
+    height: 25px;
+    margin-top: -60px;
+    align-self: center;
+    list-style: none;
+
+}
+.mobilenavigation a {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1D3557;
+    margin-top: 5px;
+    display: flex;
+    justify-self: center;
+ 
+   
+}
+.mobilenavigation li:hover {
+    background-color: #cccccc;
+    border-radius: 10px;
+
+}
+@media screen and (max-width:391px){
+     .mobilenavigation ul {
+        width: 50%;
+        height: 70%;
+     
+    }
+}

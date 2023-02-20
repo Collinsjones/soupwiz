@@ -1,0 +1,104 @@
+.sauces{
+    background-color: #E3A410
+  }
+
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#E3A410 ;
+}
+.product img {
+    width: 370px;
+    height: 351px;
+    margin-top: 24px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+
+}
+.product .description {
+    width: 370px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    line-height: 14px;
+    text-align: left;
+    vertical-align: top;
+    letter-spacing: 10%;
+    color: #070400;
+}
+
+
+
+.product .buttons {
+    position: relative;
+    top: -370px;
+    left: 20px;
+    transition: opacity 0.5s;
+    opacity: 0;
+    width: 370px;
+    height: 78%;
+    background-color: #00000044;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.product:hover .buttons {
+    opacity: 1;
+}
+
+.buttons .btn {
+    margin-right: 1rem;
+    background-color: #dddddd;
+    padding: 10px 20px;
+    width: 50%;
+    font-size: 1rem;
+    border-radius: 3px;
+}
+
+.buttons .btn:hover {
+    background-color: #384353;
+    color: #fff;
+}
+
+ /* media queries */
+
+ @media screen and (max-width:391px){
+
+    .product img {
+        width: 171.5px;
+        height: 154px;
+        margin-top: 8px;
+        margin-left: 8px;
+        margin-right: 8px;
+    
+    }
+
+    .product .description {
+        width: 170px;
+        margin-left: 8px;
+       
+    }
+    .product .buttons {
+        position: relative;
+        top: -173px;
+        left: 8px;
+        width: 171px;
+        height: 71%;
+    }
+
+    .buttons .btn {
+     
+        width: 50%;
+        font-size: 0.5rem;
+        border-radius: 3px;
+    }
+ }
+
+

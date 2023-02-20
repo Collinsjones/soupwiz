@@ -1,0 +1,7 @@
+.swallow{
+    min-height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color:#E3A410;
+}

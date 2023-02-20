@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.home{
+    background-color:#E3A410;
+}
+.tsfig{
+    width: 100%;
+    display: grid;
+}
+.lsfig{
+    width: 100%;
+    display: grid;
+}
+
+.himgone{
+    width: 332px;
+    height: 259px;
+    margin-left: 537px;  
+    margin-top: 50px; 
+    
+}
+
+.himgtwo{
+    width: 273px;
+    height: 232px;
+    margin-left: 40px;
+    margin-top: -50px;
+   
+}
+
+.himgthree{
+    width: 231px;
+    height: 184px;
+    margin-top: -180px;
+    margin-left: 1000px;
+}
+
+.create{
+    width: 580px;
+    height: 216px;
+    font-family: 'Reckless Neue';
+    font-weight: 400;
+    font-size: 62px;
+    font-style: mixed;
+    margin-left: 400px;
+    margin-top: -70px;
+    margin-bottom: 36px;
+    line-height: 72px;
+    letter-spacing: -5%;
+    text-align: center;
+    vertical-align: top;
+    color: #323334;
+}
+
+
+
+.develop {
+    width: 480px;
+    height: 76px;
+    font-family: 'Neue Montreal';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    margin-left: 476px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 10%;
+    vertical-align: top;
+    color: #323334
+}
+.read{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    width: 147px;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 646px;
+    border-radius: 8px;
+    border-color:#f8f4e7;
+    padding: 8px, 36px, 8px, 36px;
+    background-color: #f8f4e7;
+}
+.read:hover, :focus {
+    background-color: #1D3557;
+    color: #fcfdfd;
+    border-color:#1D3557; ;
+}
+
+.himgfour{
+    width: 230px;
+    height: 200px;
+    margin-left: 1000px;
+
+    margin-top: -230px;
+}
+
+.himgfive{
+    width: 413px;
+    height: 290px;
+    margin-left: 15px;
+    margin-top: -150px;
+}
+
+.himgsix{
+    width: 355px;
+    height: 285px;
+    margin-left: 887px;
+    margin-top: -100px;
+   
+}
+
+ /* media queries */
+
+ @media screen and (max-width:391px){
+
+    
+    .himgone{
+        width: 147px;
+        height: 114px;
+        margin-top: 41px;
+        margin-left: 32px;   
+        
+    }
+    .himgtwo{
+        width: 76px;
+        height: 58px;
+        margin-top: -31px;
+        margin-left: 292px;
+    }
+    .himgthree{
+        width: 102px;
+        height: 81px;
+        margin-top: 54px;
+        margin-left: -65px;
+    }
+    .create{
+        width: 343px;
+        height: 126px;
+        font-size: 36px;
+        font-style: normal;
+        margin-left: 18px;
+        margin-top: -135px;
+        margin-bottom: 0px;
+        line-height: 42px;
+        letter-spacing: -2%;
+    
+    }
+    
+    .develop {
+        width: 343px;
+        height: 133px;
+        margin-left: 16px; 
+    }
+    .read{
+        width: 147px;
+        height: 25px;
+        margin-top: 32px;
+        margin-left: 105px;  
+    }
+
+    
+.himgfour{
+   display: none;
+}
+
+.himgfive{
+    width: 182px;
+    height: 128px;
+    margin-left: -130px;
+    margin-top: -20px;
+}
+
+.himgsix{
+    width: 156px;
+    height: 126px;
+    margin-left: 200px;
+    margin-top: -40px;
+    margin-bottom: 54px;
+   
+}
+.navigation{
+    display: none;
+}
+
+ }
